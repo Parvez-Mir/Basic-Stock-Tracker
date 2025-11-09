@@ -22,7 +22,7 @@ A full-stack inventory management system for tracking products and stock transac
 
 ```bash
 git clone <repository-url>
-cd stock-tracker
+cd Basic-Stock-Tracker
 ```
 
 ### 2. Backend Setup
